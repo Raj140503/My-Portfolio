@@ -82,7 +82,7 @@ function waitAndResponce(inputText) {
             sendTextMessage(resumeString);
             break;
         case "skills":
-            sendTextMessage("<span class='sk'>I am currently pursuing BE degree in Computer Science Engineering.<br><br>I can comfortably write code in following languages :<br><span class='bold'>Java<br>C++<br>C<br>PHP<br>SQL<br>Mongo DB<br>Python<br>CSS<br>HTML<br>Javascript<br>Node js<br>Express js</span><br><br>Favourite IDE:VSCode</span>");
+            sendTextMessage("<span class='sk'>I am currently pursuing BE degree in Computer Science Engineering.<br><br>I can comfortably write code in following languages :<br><span class='bold'>Java<br>C++<br>Data Science<br>PHP<br>SQL<br>Mongo DB<br>Python<br>CSS<br>HTML<br>Javascript<br>Tailwind CSS<br>Machine Learning<br>React js<br>Node js<br>Express js</span><br><br>Favourite IDE:VSCode</span>");
             break;
 
         case "education":
